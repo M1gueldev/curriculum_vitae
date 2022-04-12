@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Miguel Murillo Bernal CV
 ---
 # Miguel Murillo Bernal
 
@@ -78,114 +78,92 @@ Carga Horaria de 120 Horas
 
 `6 de Julio 2020`
 
-Curso de: __Fundamentos de Diseño Grafico__ *Instituto de Artes de California en Coursera*
+Curso de: [__Fundamentos de Diseño Grafico__](https://coursera.org/share/22edf193349ddcf45891d04a6fa3359b) *Instituto de Artes de California en Coursera*
 
 `7 de julio 2020`
 
-Curso de: __Herramientas para Ciencia de DAtos__ *Universidad Johns Hopkins*
+Curso de: [__Herramientas para Ciencia de DAtos__](https://coursera.org/share/882a5cceda4750f6290f1bc5c0672a91)  *Universidad Johns Hopkins*
 
-https://coursera.org/share/882a5cceda4750f6290f1bc5c0672a91
-
-Curso de: __Introduccion a Tipografia__ *Instituto de Artes de California en Coursera*
-
-https://coursera.org/share/dc2ed50bf37bc5603aede9bf51c1b60e
+Curso de: [__Introduccion a Tipografia__](https://coursera.org/share/dc2ed50bf37bc5603aede9bf51c1b60e) *Instituto de Artes de California en Coursera*
 
 `17 de Julio 2020`
 
-Curso de: __Programacion en R__ *Universidad Johns Hopkins*
-
-https://coursera.org/share/d02c91698f11a0461bc1d4b39a559674
+Curso de: [__Programacion en R__](https://coursera.org/share/d02c91698f11a0461bc1d4b39a559674) *Universidad Johns Hopkins*
 
 `31 de julio 2020`
 
-Curso de: __Introduccion a Visualizacion de Analiticas con SAS__ *SAS en Coursera*
-
-https://coursera.org/share/fa0c55cb45c82f6b763bfe83c1c6b749
+Curso de: [__Introduccion a Visualizacion de Analiticas con SAS__](https://coursera.org/share/fa0c55cb45c82f6b763bfe83c1c6b749) *SAS en Coursera*
 
 `6 de Agosto 2020`
 
-Curso de: __ Prgramacion en SAS__ "SAS en Coursera*
-
-https://coursera.org/share/54a8c9d4c4cbd5876a0bda08d2697493
+Curso de: [__Programacion en SAS__](https://coursera.org/share/54a8c9d4c4cbd5876a0bda08d2697493) "SAS en Coursera*
 
 `13 de Agosto 2020`
 
-Curso de: __Redes Neuronales y Deep Learning(Aprendizade Profundo)__ *deeplearning.ai en Coursera*
-
-https://coursera.org/share/19a192b47c93bbc37af0052e897c55f9
+Curso de: [__Redes Neuronales y Deep Learning(Aprendizade Profundo)__](https://coursera.org/share/19a192b47c93bbc37af0052e897c55f9) *deeplearning.ai en Coursera*
 
 `19 de Agosto 2020`
 
-Curso de: __Creacion de Imagenes__ *Instituto de Artes de California en Coursera*
+Curso de: [__Creacion de Imagenes__](https://coursera.org/share/76577b80b6370d730d7b02e398c9f78d) *Instituto de Artes de California en Coursera*
 
-https://coursera.org/share/76577b80b6370d730d7b02e398c9f78d
 
 `28 de Agosto 2020`
 
-Curso de: __Mejorando Redes Neuronales Profundas: Ajuste de Hiperparametrizacion, Regularizacion y Optimizacion__ *Deep Learning.ai en Coursera*
+Curso de: [__Mejorando Redes Neuronales Profundas: Ajuste de Hiperparametrizacion, Regularizacion y Optimizacion__](https://coursera.org/share/a2c1a6d66d93377962803e91a3eb7801) *Deep Learning.ai en Coursera*
 
-https://coursera.org/share/a2c1a6d66d93377962803e91a3eb7801
+
 
 `30 de agosto 2020`
 
-Curso de: __Componentes de una Aplicacion Anroid - Intents, Activities, and Broadcast Receivers__ *Universidad Vanderbilt*
+Curso de: [__Componentes de una Aplicacion Anroid - Intents, Activities, and Broadcast Receivers__](https://coursera.org/share/ab10370aa175c090dfb7dbc9fb945ced) *Universidad Vanderbilt*
 
-https://coursera.org/share/ab10370aa175c090dfb7dbc9fb945ced
+
 
 `31 de Agosto 2020`
 
-Curso de: __Componentes de una Aplicacion Android - Services, Local IPC, and Content Providers__ *Universidad Vanderbilt*
+Curso de: [__Componentes de una Aplicacion Android - Services, Local IPC, and Content Providers__](https://coursera.org/share/04b27696760426aeefb527224a75c173) *Universidad Vanderbilt*
 
-https://coursera.org/share/04b27696760426aeefb527224a75c173
+
 
 `6 de Septiembre 2020`
 
-Curso de: __Aspectos Basicos de la Asistencia Tecnica__ *Google en Coursera*
+Curso de: [__Aspectos Basicos de la Asistencia Tecnica__ *Google en Coursera*
 
 https://coursera.org/share/90a077c95519d6d69297b652c988d259
 
-Curso de: __Ingeniera para Aplicaciones de Android Mantenibles__ *Universidad Vanderbilt*
+Curso de: [__Ingeniera para Aplicaciones de Android Mantenibles__](https://coursera.org/share/ccd8ea8f716103daa111831a0413d32d) *Universidad Vanderbilt*
 
-https://coursera.org/share/ccd8ea8f716103daa111831a0413d32d
+
 
 `8 de septiembre 2020`
 
-Curso de: __Java para Android__ *Universidad Vanderbilt*
+Curso de: [__Java para Android__](https://coursera.org/share/7ac78ae0efbe59e4f972f9d994004da0) *Universidad Vanderbilt*
 
-https://coursera.org/share/7ac78ae0efbe59e4f972f9d994004da0
+
 
 `16 de Septiembre 2020`
 
-Curso de: __Ideas de la Historia del Diseño grafico__ *Instituto de Artes de California*
+Curso de: [__Ideas de la Historia del Diseño grafico__](https://coursera.org/share/bf3346326e1f581166cb6872921aaadf) *Instituto de Artes de California*
 
-https://coursera.org/share/bf3346326e1f581166cb6872921aaadf
 
 `24 de Septiembre 2020`
 
-Curso de: __Estructurando Proyectos de Machine Learning(Aprendizaje de Maquinas)__ *Deeplearning.ai en Coursera*
+Curso de: [__Estructurando Proyectos de Machine Learning(Aprendizaje de Maquinas)__](https://coursera.org/share/900a4574ecc156ff03bef00277730c50) *Deeplearning.ai en Coursera*
 
-https://coursera.org/share/900a4574ecc156ff03bef00277730c50
+
 
 `28 de Septiembre 2020`
 
-Especializacion en __Diseño Grafico__ *Instituto de Artes de California en Coursera*
+Especializacion en [__Diseño Grafico__](https://coursera.org/share/c54a442df3cc8ae9d3a6047daa90ee84) *Instituto de Artes de California en Coursera*
 
-https://coursera.org/share/c54a442df3cc8ae9d3a6047daa90ee84
 
-Curso de: __Creacion de Marcas__ *Instituto de Artes de California en Coursera*
 
-https://coursera.org/share/3ffd083cd20588a23c46517abe55591f
+Curso de: [__Creacion de Marcas__](https://coursera.org/share/3ffd083cd20588a23c46517abe55591f) *Instituto de Artes de California en Coursera*
 
 `1 de Octubre 2020`
 
-Curso de: __Diseño de Paginas Web con Bootstrap 4__ *Universidad Austral*
-
-https://coursera.org/share/104c0e314e5a69719e65666dbb6ad431
-
-
-
+Curso de: [__Diseño de Paginas Web con Bootstrap 4__](https://coursera.org/share/104c0e314e5a69719e65666dbb6ad431) *Universidad Austral*
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
-
+Ultima Actualizacion Abril 22, 2022 -->
