@@ -106,57 +106,39 @@ Curso de: [__Redes Neuronales y Deep Learning(Aprendizade Profundo)__](https://c
 
 Curso de: [__Creacion de Imagenes__](https://coursera.org/share/76577b80b6370d730d7b02e398c9f78d) *Instituto de Artes de California en Coursera*
 
-
 `28 de Agosto 2020`
 
 Curso de: [__Mejorando Redes Neuronales Profundas: Ajuste de Hiperparametrizacion, Regularizacion y Optimizacion__](https://coursera.org/share/a2c1a6d66d93377962803e91a3eb7801) *Deep Learning.ai en Coursera*
-
-
 
 `30 de agosto 2020`
 
 Curso de: [__Componentes de una Aplicacion Anroid - Intents, Activities, and Broadcast Receivers__](https://coursera.org/share/ab10370aa175c090dfb7dbc9fb945ced) *Universidad Vanderbilt*
 
-
-
 `31 de Agosto 2020`
 
 Curso de: [__Componentes de una Aplicacion Android - Services, Local IPC, and Content Providers__](https://coursera.org/share/04b27696760426aeefb527224a75c173) *Universidad Vanderbilt*
 
-
-
 `6 de Septiembre 2020`
 
-Curso de: [__Aspectos Basicos de la Asistencia Tecnica__ *Google en Coursera*
-
-https://coursera.org/share/90a077c95519d6d69297b652c988d259
+Curso de: [__Aspectos Basicos de la Asistencia Tecnica__](https://coursera.org/share/90a077c95519d6d69297b652c988d259) *Google en Coursera*
 
 Curso de: [__Ingeniera para Aplicaciones de Android Mantenibles__](https://coursera.org/share/ccd8ea8f716103daa111831a0413d32d) *Universidad Vanderbilt*
-
-
 
 `8 de septiembre 2020`
 
 Curso de: [__Java para Android__](https://coursera.org/share/7ac78ae0efbe59e4f972f9d994004da0) *Universidad Vanderbilt*
 
-
-
 `16 de Septiembre 2020`
 
 Curso de: [__Ideas de la Historia del Diseño grafico__](https://coursera.org/share/bf3346326e1f581166cb6872921aaadf) *Instituto de Artes de California*
-
 
 `24 de Septiembre 2020`
 
 Curso de: [__Estructurando Proyectos de Machine Learning(Aprendizaje de Maquinas)__](https://coursera.org/share/900a4574ecc156ff03bef00277730c50) *Deeplearning.ai en Coursera*
 
-
-
 `28 de Septiembre 2020`
 
 Especializacion en [__Diseño Grafico__](https://coursera.org/share/c54a442df3cc8ae9d3a6047daa90ee84) *Instituto de Artes de California en Coursera*
-
-
 
 Curso de: [__Creacion de Marcas__](https://coursera.org/share/3ffd083cd20588a23c46517abe55591f) *Instituto de Artes de California en Coursera*
 
