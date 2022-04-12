@@ -8,7 +8,7 @@ Estudiante de la Carrera de Informatica en la UMSA
 
 <div id="webaddress">
 <a href="m16uel123@gmail.com">m16uel123@gmail.com</a>
-| <a href="https://m1gueldev.github.io/curriculum_vitae/">Currculum Vitae</a>
+| <a href="https://m1gueldev.github.io/curriculum_vitae/">Currculum Vitae</a> https://m1gueldev.github.io/curriculum_vitae/
 </div>
 
 
