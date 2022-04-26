@@ -21,6 +21,10 @@ Estudiante de la Carrera de Informatica en la Universidad Mayor de San Andres pr
 Español
 Ingles
 
+## Experiencia 
+
+[4 años en amuyutec como Consultor Analista y Desarrollador de Software](./images/CertMiguelBernal.pdf)
+
 ## Especialidades
 
 Desarrollo Movil Nativo en Android con Java y Kotlin
