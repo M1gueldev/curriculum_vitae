@@ -23,7 +23,7 @@ Ingles
 
 ## Experiencia 
 
-[4 años en amuyutec como Consultor Analista y Desarrollador de Software](./images/CertMiguelBernal.pdf)
+
 
 ## Especialidades
 
@@ -60,7 +60,8 @@ https://github.com/jquense/tiny-case/pull/2
 `2017`
 __Verificador de Actas, Elecciones judiciales de Bolivia de 2017__
 
-``
+`2018 - 2022`
+[4 años en amuyutec como Consultor Analista y Desarrollador de Software](./images/CertMiguelBernal.pdf)
 
 ## Cursos y Certificados
 
