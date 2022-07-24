@@ -11,19 +11,10 @@ Estudiante de la Carrera de Informatica en la UMSA
 | <a href="https://m1gueldev.github.io/curriculum_vitae/">Currculum Vitae</a> https://m1gueldev.github.io/curriculum_vitae/
 </div>
 
-
-## Actualmente
-
-Estudiante de la Carrera de Informatica en la Universidad Mayor de San Andres proximo a graduarse el proximo año
-
 ## Idiomas
 
 Español
-Ingles
-
-## Experiencia 
-
-
+Ingles (Avanzado)
 
 ## Especialidades
 
