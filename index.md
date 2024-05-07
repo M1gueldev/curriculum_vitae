@@ -26,9 +26,15 @@ Desarrollo Web Frontend con Angular, React, Svelte
 
 Desarrollo Web Backend con PHP, Ruby, Javascript, Typescript
 
+Programacion Competitiva en C/C++
+
 Inteligencia Artifical, Redes Neuronales y Deep Learning con Python
 
 Diseño de Paginas Web
+
+Ingenieria Inversa
+
+Criptografia
 
 ## Educación
 
@@ -53,6 +59,42 @@ __Verificador de Actas, Elecciones judiciales de Bolivia de 2017__
 
 `2018 - 2022`
 [4 años en amuyutec como Consultor Analista y Desarrollador de Software](./images/CertMiguelBernal.pdf)
+
+## Talleres y Seminarios y Competencias
+
+`29 de diciembre 2023`
+
+3er Lugar Competencia de Seguridad Informatica modalidad captura la bandera (CTF-Jeopardy)
+
+V Congreso Internacional de Seguridad Informática = Santa Cruz - Bolivia
+
+[Ceremonia Premiación](https://fb.watch/rWjGBewUzS/)
+
+`30 de noviembre 2023 - 1 de diciembre 2023`
+
+V Congreso Internacional de Seguridad Informática y el III Congreso Internacional de Tecnología y Gobierno
+
+Santa Cruz - Bolivia
+
+[Certificado](./images/agetic-congreso.pdf)
+
+`02 de diciembre 2023`
+
+Taller: Real Hackers use Vim, but How? (Expositor)
+
+HackMeeting 2023 - Cochabamba - Bolivia
+
+[Hackmeeting](https://www.facebook.com/hackmeetingbolivia/posts/pfbid0W7QwXpFW4dRkWvaK6N1UATBghFF5fTH8bTUeEVwnHSTNQW9HddrGqahgQd2LkyXKl)
+
+`04 de mayo 2024`
+
+Taller: Power Level 10k unlocked (Expositor)
+
+Festival Latinoamericano de Software Libre - La Paz - Bolivia
+
+[RootHouse](https://www.facebook.com/r00thouse/posts/pfbid0wU9Rm9GQRGL9vM8qoCYjXf5iEEkfQqr2Pa6rVdJpb4HxYfX98Jt9AkxCXmuacyxal)
+
+
 
 ## Cursos y Certificados
 
